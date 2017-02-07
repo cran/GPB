@@ -1,0 +1,3 @@
+importFrom("stats", "runif")
+export(pgpb, dgpb, qgpb, rgpb, gpb.args.check)
+useDynLib(GPB)
