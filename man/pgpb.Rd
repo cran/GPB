@@ -47,8 +47,9 @@ Yili Hong
 }
 
 \references{
-Man. Zhang, Y. Hong, and N. Balakrishnan (2017). ``An Algorithm for Computing the Distribution Function of the Generalized Poisson-Binomial Distribution,''  preprint, arXiv:1702.01326.
+Man. Zhang, Y. Hong, and N. Balakrishnan (2018). ``The generalized Poisson-binomial distribution and the computation of its distribution function,''  Journal of Statistical Computation and Simulation, Vol. 88, pp. 1515-1527.
 
+Singleton, R. C. (1969). An algorithm for computing the mixed radix fast Fourier transform. IEEE Transactions on Audio and Electroacoustics, Vol. 17, pp. 93-103.
 }
 
 \examples{
