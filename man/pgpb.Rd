@@ -43,11 +43,13 @@ Returns the cdf, pmf, quantiles, and random numbers.
 }
 
 \author{
-Yili Hong
+\packageAuthor{GPB}
 }
 
 \references{
 Man. Zhang, Y. Hong, and N. Balakrishnan (2018). ``The generalized Poisson-binomial distribution and the computation of its distribution function,''  Journal of Statistical Computation and Simulation, Vol. 88, pp. 1515-1527.
+
+R Core Team (2019). ``R: A Language and Environment for Statistical Computing,'' R Foundation for Statistical Computing, Vienna, Austria, url: https://www.R-project.org/.
 
 Singleton, R. C. (1969). An algorithm for computing the mixed radix fast Fourier transform. IEEE Transactions on Audio and Electroacoustics, Vol. 17, pp. 93-103.
 }

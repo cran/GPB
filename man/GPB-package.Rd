@@ -12,7 +12,7 @@ This package computes the distribution functions for the Generalized Poisson Bin
 Generalized Poisson Bionomial distribution is defined as distribution of sum of independent, non-identically distributed Bernoulli variables which are associated with integer values. This package provides an computing method for Generalized Poisson Binomial distributions. The fomula that computes the cdf of Generalized Poisson Binomial distribution is based on the discrete Fourier transform of the characteristic function.
 }
 \author{
-Yili Hong, Man Zhang, and Ross Ihaka
+Yili Hong, Man Zhang, and R Core Team
 
 Maintainer: Yili Hong
 }
